@@ -13,7 +13,7 @@ You are free to use, modify, adapt, and implement any idea found here for both c
 # Contributing
 
 You are welcome to discuss, refine, or submit new project ideas via **Issues** or **Pull Requests**.
-By submitting a proposal or contribution to this repository, you agree that your submission becomes publicly available under the MIT License, free for anyone to use, modify, and implement without restriction.
+By submitting a proposal or contribution to this repository, you agree that your submission becomes publicly available under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](LICENSE), free for anyone to use, modify, and implement without restriction.
 
 ## Licensing & Public Domain Status
 
