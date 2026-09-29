@@ -5,7 +5,7 @@ Here I collect freshly born ideas as well as proposals for improving existing pr
 
 # Usage
 
-All ideas and specifications in this repository are released under the **MIT License**.
+All ideas and specifications in this repository are released under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](LICENSE).
 You are free to use, modify, adapt, and implement any idea found here for both commercial and non-commercial purposes. 
 
 > **Note:** Publishing an idea here places it in the open domain. No one (including original authors or third parties) can claim exclusive rights, patents, or ownership over the conceptual ideas described in this repository.
